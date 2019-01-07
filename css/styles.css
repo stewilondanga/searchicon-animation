@@ -107,10 +107,11 @@ body .dribbble img {
   color: #000;
 }
 
-/*.search > div input:-moz-placeholder {
+.search>div input:-moz-placeholder {
   color: #000;
 }
-.search > div input::-moz-placeholder {
+
+/*.search > div input::-moz-placeholder {
   color: #000;
 }
 .search > div input:-ms-input-placeholder {
