@@ -76,12 +76,13 @@ body .dribbble img {
   transition: all .3s ease .6s;
 }
 
-/*.search > div {
+.search>div {
   position: relative;
   width: 0;
   transition: all 0.5s cubic-bezier(0.51, 0.92, 0.24, 1.15) 0.5s;
 }
-.search > div input {
+
+/*.search > div input {
   font-size: inherit;
   line-height: inherit;
   padding: 0 24px 0 0;
