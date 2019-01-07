@@ -162,11 +162,12 @@ body .dribbble img {
   transition-delay: 0s;
 }
 
-/*.search.open > div {
+.search.open>div {
   transition-delay: 0s;
   width: 200px;
 }
-.search.open > div > div span {
+
+/*.search.open > div > div span {
   opacity: 1;
   visibility: visible;
   -webkit-transform: translate(0, 0);
