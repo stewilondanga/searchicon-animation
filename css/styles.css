@@ -119,12 +119,13 @@ body .dribbble img {
   color: #000;
 }
 
-/*.search > div > div {
+.search>div>div {
   white-space: nowrap;
   color: #000;
   display: flex;
 }
-.search > div > div span {
+
+/*.search > div > div span {
   line-height: 20px;
   font-size: 16px;
   opacity: 0;
