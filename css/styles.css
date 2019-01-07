@@ -167,13 +167,14 @@ body .dribbble img {
   width: 200px;
 }
 
-/*.search.open > div > div span {
+.search.open>div>div span {
   opacity: 1;
   visibility: visible;
   -webkit-transform: translate(0, 0);
-          transform: translate(0, 0);
+  transform: translate(0, 0);
 }
-.search.open > div > div span:nth-child(1) {
+
+/*.search.open > div > div span:nth-child(1) {
   transition-delay: .4s;
 }
 .search.open > div > div span:nth-child(2) {
