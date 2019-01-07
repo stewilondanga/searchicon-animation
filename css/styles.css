@@ -140,10 +140,11 @@ body .dribbble img {
   transition-delay: .4s;
 }
 
-/*.search > div > div span:nth-child(2) {
+.search>div>div span:nth-child(2) {
   transition-delay: .2s;
 }
-.search > div > div span:nth-child(3) {
+
+/*.search > div > div span:nth-child(3) {
   transition-delay: 0s;
 }
 .search.open {
