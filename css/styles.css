@@ -178,10 +178,11 @@ body .dribbble img {
   transition-delay: .4s;
 }
 
-/*.search.open > div > div span:nth-child(2) {
+.search.open>div>div span:nth-child(2) {
   transition-delay: .45s;
 }
-.search.open > div > div span:nth-child(3) {
+
+/*.search.open > div > div span:nth-child(3) {
   transition-delay: .50s;
 }
 .search.open > div input {
