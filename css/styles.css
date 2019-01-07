@@ -82,7 +82,7 @@ body .dribbble img {
   transition: all 0.5s cubic-bezier(0.51, 0.92, 0.24, 1.15) 0.5s;
 }
 
-/*.search > div input {
+.search>div input {
   font-size: inherit;
   line-height: inherit;
   padding: 0 24px 0 0;
@@ -102,7 +102,8 @@ body .dribbble img {
   visibility: hidden;
   transition: all 0s ease 0s;
 }
-.search > div input::-webkit-input-placeholder {
+
+/*.search > div input::-webkit-input-placeholder {
   color: #000;
 }
 .search > div input:-moz-placeholder {
