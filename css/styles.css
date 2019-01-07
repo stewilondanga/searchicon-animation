@@ -115,10 +115,11 @@ body .dribbble img {
   color: #000;
 }
 
-/*.search > div input:-ms-input-placeholder {
+.search>div input:-ms-input-placeholder {
   color: #000;
 }
-.search > div > div {
+
+/*.search > div > div {
   white-space: nowrap;
   color: #000;
   display: flex;
