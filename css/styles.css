@@ -103,10 +103,11 @@ body .dribbble img {
   transition: all 0s ease 0s;
 }
 
-/*.search > div input::-webkit-input-placeholder {
+.search>div input::-webkit-input-placeholder {
   color: #000;
 }
-.search > div input:-moz-placeholder {
+
+/*.search > div input:-moz-placeholder {
   color: #000;
 }
 .search > div input::-moz-placeholder {
