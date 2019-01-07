@@ -50,11 +50,11 @@ body .dribbble img {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-.search {
+/*.search {
   display: flex;
   align-items: center;
   border-radius: 50%;
