@@ -54,7 +54,7 @@ body .dribbble img {
   height: 1.5em;
 }
 
-/*.search {
+.search {
   display: flex;
   align-items: center;
   border-radius: 50%;
@@ -62,7 +62,8 @@ body .dribbble img {
   transition: all .3s ease .6s;
   box-shadow: 0 3px 14px -1px rgba(0, 0, 0, 0.18);
 }
-.search svg {
+
+/*.search svg {
   cursor: pointer;
   margin: 20px;
   width: 18px;
