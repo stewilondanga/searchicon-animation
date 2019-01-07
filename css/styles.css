@@ -144,10 +144,11 @@ body .dribbble img {
   transition-delay: .2s;
 }
 
-/*.search > div > div span:nth-child(3) {
+.search>div>div span:nth-child(3) {
   transition-delay: 0s;
 }
-.search.open {
+
+/*.search.open {
   cursor: default;
   border-radius: 8px;
   transition-delay: 0s;
