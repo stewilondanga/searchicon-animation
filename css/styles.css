@@ -1,3 +1,8 @@
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,10 +26,6 @@
   height: 1.5em;
 }
 
-html {
-  box-sizing: border-box;
-  -webkit-font-smoothing: antialiased;
-}
 
 * {
   box-sizing: inherit;
