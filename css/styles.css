@@ -125,17 +125,18 @@ body .dribbble img {
   display: flex;
 }
 
-/*.search > div > div span {
+.search>div>div span {
   line-height: 20px;
   font-size: 16px;
   opacity: 0;
   display: block;
   visibility: hidden;
   -webkit-transform: translate(0, 12px);
-          transform: translate(0, 12px);
+  transform: translate(0, 12px);
   transition: all .4s ease;
 }
-.search > div > div span:nth-child(1) {
+
+/*.search > div > div span:nth-child(1) {
   transition-delay: .4s;
 }
 .search > div > div span:nth-child(2) {
