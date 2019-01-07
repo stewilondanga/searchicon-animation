@@ -63,7 +63,7 @@ body .dribbble img {
   box-shadow: 0 3px 14px -1px rgba(0, 0, 0, 0.18);
 }
 
-/*.search svg {
+.search svg {
   cursor: pointer;
   margin: 20px;
   width: 18px;
@@ -72,10 +72,11 @@ body .dribbble img {
   color: #000;
   stroke-width: 2;
   -webkit-transform: rotate(90deg);
-          transform: rotate(90deg);
+  transform: rotate(90deg);
   transition: all .3s ease .6s;
 }
-.search > div {
+
+/*.search > div {
   position: relative;
   width: 0;
   transition: all 0.5s cubic-bezier(0.51, 0.92, 0.24, 1.15) 0.5s;
